@@ -4,6 +4,8 @@ A responsive, multi-page website concept for a neighborhood bakery serving stree
 
 ## Preview
 
+[View the live site](https://tobbiboy.github.io/sandwich-bakers/).
+
 Open [`index.html`](./index.html) in a browser, or open the project folder in Visual Studio Code and use Live Server.
 
 ## Pages
