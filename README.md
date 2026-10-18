@@ -28,9 +28,9 @@ Open [`index.html`](./index.html) in a browser, or open the project folder in Vi
 No build tools or package installation are required.
 
 1. Clone or download this repository.
-2. Open `index.html` in a browser, or open the folder in Visual Studio Code and start Live Server.
+2. Open `index.html` in a browser, or open the project folder in Visual Studio Code and start Live Server.
 
-The homepage hero uses [`assets/natures-loaf.png`](./assets/natures-loaf.png).
+The homepage hero features [`image4.jpeg`](./image4.jpeg), and the order page highlights the packaged loaf in [`assets/natures-loaf.png`](./assets/natures-loaf.png). The menu and story pages also use the supplied bakery and bread photography.
 
 ## Deploy with GitHub Pages
 
